@@ -1,0 +1,5 @@
+# configs containing sensitive data
+config.json
+
+# virtualenvs
+openai-env/
